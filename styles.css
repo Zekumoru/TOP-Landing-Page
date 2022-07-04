@@ -192,3 +192,13 @@ button {
 #action-time button {
     border: 2px solid #F9FAF8;
 }
+
+/* Footer Section */
+
+#footer {
+    background-color: #1F2937;
+    padding: 40px 16px;
+    color: #E5E7EB;
+    text-align: center;
+    font-size: 18px;
+}

@@ -26,7 +26,7 @@ button {
     background-color: #1F2937;
 }
 
-/* Header logo and links */
+/* Header Section */
 
 .header,
 .header .links {
@@ -56,7 +56,7 @@ button {
     color: #E5E7EB;
 }
 
-/* "This website is awesome" Part */
+/* Main Content Section */
 
 .main-content {
     max-width: 1280px;
@@ -96,7 +96,7 @@ button {
     align-items: center;
 }
 
-/* "Some random information" Part */
+/* Information Section */
 
 #information {
     padding-top: 48px;
@@ -134,3 +134,4 @@ button {
     color: #1F2937;
     text-align: center;
 }
+

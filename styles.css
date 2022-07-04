@@ -160,3 +160,35 @@ button {
     font-size: 24px;
     font-weight: 500;
 }
+
+/* Action-Time Section */
+
+#action-time {
+    padding: 96px 16px;
+}
+
+#action-time .container {
+    max-width: 960px;
+    margin: 0 auto;
+    background-color:  #3882F6;
+    border-radius: 8px;
+    padding: 48px 96px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#action-time .heading {
+    font-size: 24px;
+    font-weight: 500;
+    color: #F9FAF8;
+}
+
+#action-time .text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+#action-time button {
+    border: 2px solid #F9FAF8;
+}

@@ -34,7 +34,7 @@ button {
 }
 
 .header {
-    max-width: 1280px;
+    max-width: 960px;
     margin: 0 auto;
     padding: 16px;
     justify-content: space-between;
@@ -58,7 +58,7 @@ button {
 /* Main Content Section */
 
 .main-content {
-    max-width: 1280px;
+    max-width: 960px;
     margin: 0 auto;
     display: flex;
     padding: 128px 16px;
@@ -170,6 +170,7 @@ button {
 #action-time .container {
     max-width: 960px;
     margin: 0 auto;
+    box-sizing: border-box;
     background-color:  #3882F6;
     border-radius: 8px;
     padding: 48px 96px;
